@@ -1,0 +1,10 @@
+levelset=LBreakoutHD
+difficulty=2
+curplayer=0
+players=1
+player0 {
+	name=Michael
+	level=0
+	score=960
+	lives=5
+}
